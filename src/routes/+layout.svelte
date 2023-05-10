@@ -2,7 +2,7 @@
 
 <style>
     @import 'https://unpkg.com/@picocss/pico@latest/css/pico.min.css';
-    
+
     :global(body) {
         padding: 2rem;
     }
